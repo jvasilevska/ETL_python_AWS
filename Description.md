@@ -1,4 +1,4 @@
-#Task description: 
+﻿# Task description: 
  
 The task can be broken down into the following steps:
 * Investigate the API and understand how to get the required data out of it

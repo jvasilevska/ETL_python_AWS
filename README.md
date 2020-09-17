@@ -1,12 +1,12 @@
-#Instructions
+# Instructions
 
-###Installation
-####Requirements
+### Installation
+#### Requirements
 * Python 3
 * virtualenv 
 * AWS account
 
-####Setup
+#### Setup
 
 * Copy `config.ini.example` to `config.ini` with the following command:  
 ```
@@ -19,7 +19,7 @@ cp config.ini.example config.ini
 * Install requirements: `pip install -r requirements.txt`
 * When done, deactivate environment: `env\Scripts\deactivate.bat`
 
-###Running the script
+### Running the script
 `python api_to_s3.py`
 
 
