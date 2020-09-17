@@ -1,0 +1,11 @@
+[api_access]
+x_auth_token = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+[aws_access]
+access_key = XXXXXXXXXXXXXXXXXXXX
+secret_key = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+[s3_access]
+bucket_name = xxxxxxxxxxxxxxxxxxxxxxxxxxx
+region = xx-xxxx-X
+
